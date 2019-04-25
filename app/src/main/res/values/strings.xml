@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MISA.GithubUser</string>
+    <string name="user_name">Username</string>
+    <string name="search">Search</string>
+    <string name="num_of_result_return">Số kết quả trả về</string>
+    <string name="msg_searching">Searching…</string>
+    <string name="login_name">Login Name</string>
+    <string name="user_id">User id</string>
+    <string name="nothing"/>
+    <string name="user_not_found">Không tìm thấy User này</string>
+    <string name="network_not_avaiable">Hiện không có kết nối mạng</string>
+</resources>
